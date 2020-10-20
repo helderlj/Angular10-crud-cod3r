@@ -1,0 +1,51 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Ana",
+      "idade": 30
+    },
+    {
+      "id": 2,
+      "nome": "Helder",
+      "idade": 30
+    },
+    {
+      "id": 3,
+      "nome": "Ailton",
+      "idade": 45
+    },
+    {
+      "id": 4,
+      "nome": "Fedida",
+      "idade": 5
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caneta",
+      "preco": "3590"
+    },
+    {
+      "id": 2,
+      "nome": "Bicicleta",
+      "preco": 30.59
+    },
+    {
+      "nome": "Xbox",
+      "preco": "10",
+      "id": 7
+    },
+    {
+      "nome": "Um novo produto",
+      "preco": "10005",
+      "id": 8
+    },
+    {
+      "nome": "asdasd",
+      "preco": "5000",
+      "id": 9
+    }
+  ]
+}
