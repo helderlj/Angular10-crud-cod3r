@@ -1,6 +1,8 @@
 # Angular10-crud-cod3r
 Projeto de crud simples em Angular 10 - Mini curso da Cod3r: https://www.cod3r.com.br/courses/take/angular-9-essencial/lessons/11840190-introducao-do-curso
 
+https://www.cod3r.com.br/certificates/kokilkj8ew
+
 
 # Frontend
 
